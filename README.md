@@ -3,23 +3,23 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  33 Koncept Alla JavaScript Utvecklare Borde Kunna.
   <br><br>
 </h1>
 
-[![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
+[![Följ Mig](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
 
-## Introduction
+## Introduktion
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Det här arkivet skapades med avsikten att hjälpa utvecklare att bemästra sina koncept i JavaScript. Det är inget krav, utan en vägledning för framtida studier. Den är baserad på en artikel skriven av [Stephen Curtis](https://twitter.com/stephenthecurt) och du kan läsa den [här](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Anses av GitHub som ett av [de bästa open source-projekten 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Community
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Skicka gärna in en PR som lägger till en länk till dina egna sammanfattningar eller recensioner. Om du vill översätta repo till ditt modersmål är du välkommen att göra det.
 
-All the translations for this repo will be listed below:
+Alla översättningar är listade under:
 
 - [اَلْعَرَبِيَّةُ(Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
@@ -42,10 +42,10 @@ All the translations for this repo will be listed below:
 - [Italiano (Italian)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
 - [ภาษาไทย (Thai)](https://github.com/ninearif/33-js-concepts) —  Arif Waram
 - [Català (Catalan)](https://github.com/marioestradaf/33-js-concepts) — Mario Estrada
-
+- [Svenska (Swedish)](https://github.com/FenixHongell/33-js-concepts/) — Fenix Hongell
 ---
 
-## <a id="table-of-contents">Table of Contents</a>
+## <a id="table-of-contents">Innehåll</a>
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
@@ -1138,4 +1138,4 @@ All the translations for this repo will be listed below:
 - 🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 - 🎥 [Clean Code playlist - Beau teaches](https://www.youtube.com/watch?v=b9c5GmmS7ks&list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh&index=1)
 
-**[⬆ Back to Top](#table-of-contents)**
+**[⬆ Till toppen](#table-of-contents)**
